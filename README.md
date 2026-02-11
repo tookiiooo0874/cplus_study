@@ -1,2 +1,2 @@
-# c-_study
+# cplus_study
 robe C++
