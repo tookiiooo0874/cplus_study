@@ -1,3 +1,21 @@
+For3c: ./For/For3c.cpp
+	g++ -o ./For/For3c ./For/For3c.cpp
+
+For3b: ./For/For3b.cpp
+	g++ -o ./For/For3b ./For/For3b.cpp
+
+For3: ./For/For3.cpp
+	g++ -o ./For/For3 ./For/For3.cpp
+
+For2: ./For/For2.cpp
+	g++ -o ./For/For2 ./For/For2.cpp
+
+Array1: ./Array/Array1.cpp
+	g++ -o ./Array/Array1 ./Array/Array1.cpp
+
+For1: ./For/For1.cpp
+	g++ -o ./For/For1 ./For/For1.cpp
+
 If3: ./If/If3.cpp
 	g++ -o ./If/If3 ./If/If3.cpp
 
