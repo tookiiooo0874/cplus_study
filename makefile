@@ -1,3 +1,18 @@
+Switch1: ./Switch/Switch1.cpp
+	g++ -o ./Switch/Switch1 ./Switch/Switch1.cpp
+
+Continue1: ./Continue/Coutinue1.cpp
+	g++ -o ./Continue/Coutinue1 ./Continue/Coutinue1.cpp
+
+Break1: ./Break/Break1.cpp
+	g++ -o ./Break/Break1 ./Break/Break1.cpp
+
+While1c: ./While/While1c.cpp
+	g++ -o ./While/While1c ./While/While1c.cpp
+
+While1: ./While/While1.cpp
+	g++ -o ./While/While1 ./While/While1.cpp
+
 For3c: ./For/For3c.cpp
 	g++ -o ./For/For3c ./For/For3c.cpp
 
