@@ -1,3 +1,9 @@
+Input1: ./Input/Input1.cpp
+	g++ -o ./Input/Input1 ./Input/Input1.cpp
+
+Variable4: ./Variable/Variable4.cpp
+	g++ -o ./Variable/Variable4 ./Variable/Variable4.cpp
+
 Func2: ./Function/Func2.cpp
 	g++ -o ./Function/Func2 ./Function/Func2.cpp
 
