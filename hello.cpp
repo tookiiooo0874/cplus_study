@@ -2,5 +2,6 @@
 using namespace std;
 
 int main() {
-    cout << "Hello, World!" << endl;
+    cout << 2 << '+' << 3 << '=' << 2 + 3 << endl;
+    cout << "π=" << 3.14159 << "..." << endl;
 }
