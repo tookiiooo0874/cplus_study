@@ -1,3 +1,12 @@
+If3: ./If/If3.cpp
+	g++ -o ./If/If3 ./If/If3.cpp
+
+If2: ./If/If2.cpp
+	g++ -o ./If/If2 ./If/If2.cpp
+
+If1: ./If/If1.cpp
+	g++ -o ./If/If1 ./If/If1.cpp
+
 Input1: ./Input/Input1.cpp
 	g++ -o ./Input/Input1 ./Input/Input1.cpp
 
