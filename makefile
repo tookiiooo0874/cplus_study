@@ -1,3 +1,9 @@
+Rand1c: ./Rand/Rand1c.cpp
+	g++ -o ./Rand/Rand1c ./Rand/Rand1c.cpp
+
+Rand1: ./Rand/Rand1.cpp
+	g++ -o ./Rand/Rand1 ./Rand/Rand1.cpp
+
 Switch1: ./Switch/Switch1.cpp
 	g++ -o ./Switch/Switch1 ./Switch/Switch1.cpp
 
