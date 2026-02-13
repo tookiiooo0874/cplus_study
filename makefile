@@ -1,3 +1,12 @@
+Ptr2: ./Ptr/Ptr2.cpp
+	g++ -o ./Ptr/Ptr2 ./Ptr/Ptr2.cpp
+
+Ptr1: ./Ptr/Ptr1.cpp
+	g++ -o ./Ptr/Ptr1 ./Ptr/Ptr1.cpp
+
+Address1: ./Address/Address1.cpp
+	g++ -o ./Address/Address1 ./Address/Address1.cpp
+
 Rand1c: ./Rand/Rand1c.cpp
 	g++ -o ./Rand/Rand1c ./Rand/Rand1c.cpp
 
